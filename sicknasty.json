@@ -1,0 +1,36 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "SICKnasty - FO4",
+    "description": "Over 1k handpicked & carefully patched mods that combine via Wabbajack to make your Fallout 4 survival mode playthrough more fun, challenging, & packed with content!",
+    "author": "<KCisSICKnasty>",
+    "maintainers": [
+      "github/<KCisSICKnasty>"
+    ],
+    "game": "fallout4",
+    "tags": [
+      "<survival"
+    ],
+    "nsfw": false,
+    "image_contains_title": true,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "<https://i.postimg.cc/nMbnsgxn/Word.png>",
+      "readme": "<https://github.com/KCisSICKnasty/SICKnasty-FO4/blob/main/README.md>",
+      "download": "https://authored-files.wabbajack.org/Halgaris Helper.wabbajack_29d245c9-5f7f-4394-b600-a22e43427337",
+      "machineURL": "sicknastyfo4",
+      "discordURL": "<https://discord.gg/W9HRjDFVzX>"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "+FdtednnC1Y=",
+      "Size": 1014204042,
+      "NumberOfArchives": 1578,
+      "SizeOfArchives": 153080178247,
+      "NumberOfInstalledFiles": 64775,
+      "SizeOfInstalledFiles": 191640397105
+    },
+    "version": "2.4.1"
+  }
+]
