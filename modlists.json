@@ -1,36 +1,39 @@
 [
   {
-    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "SICKnasty",
-    "description": "Over 1k handpicked & carefully patched mods that combine via Wabbajack to make your Fallout 4 survival mode playthrough more fun, challenging, & packed with content!",
+    "description": "Over 1k handpicked \u0026 carefully patched mods that combine via Wabbajack to make your Fallout 4 survival mode playthrough more fun, challenging, \u0026 packed with content!",
     "author": "KCisSICKnasty",
     "maintainers": [
       "github/KCisSICKnasty"
     ],
     "game": "fallout4",
+    "official": false,
     "tags": [
       "survival"
     ],
     "nsfw": false,
+    "utility_list": false,
     "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/KCisSICKnasty/SICKnasty-FO4/refs/heads/main/resized%20word.webp",
       "readme": "https://github.com/KCisSICKnasty/SICKnasty-FO4/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/SICKnasty%20-%20FO4.wabbajack_6883f9c4-b066-4f53-9792-1b0d84e68632",
+      "download": "https://authored-files.wabbajack.org/SICKnasty - FO4.wabbajack_e6fcce9e-7057-4d8b-91c9-4192bb9bebb3",
       "machineURL": "sicknastyfo4",
       "discordURL": "https://discord.gg/W9HRjDFVzX"
     },
     "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "+FdtednnC1Y=",
-      "Size": 1014204042,
-      "NumberOfArchives": 1578,
-      "SizeOfArchives": 153080178247,
-      "NumberOfInstalledFiles": 64775,
-      "SizeOfInstalledFiles": 191640397105
+      "Hash": "KvRqsjDLqE0=",
+      "Size": 156655734,
+      "NumberOfArchives": 1701,
+      "SizeOfArchives": 168886742788,
+      "NumberOfInstalledFiles": 77106,
+      "SizeOfInstalledFiles": 213508573980
     },
-    "version": "2.4.1"
+    "version": "2.4.6",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2024-12-16T14:13:48.8192306Z",
+    "repositoryName": ""
   }
 ]
