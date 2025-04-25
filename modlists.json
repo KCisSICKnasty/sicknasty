@@ -19,21 +19,23 @@
     "links": {
       "image": "https://raw.githubusercontent.com/KCisSICKnasty/SICKnasty-FO4/refs/heads/main/resized%20word.webp",
       "readme": "https://github.com/KCisSICKnasty/SICKnasty-FO4/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/SICKnasty - FO4.wabbajack_38d31327-836f-498f-aacb-fb3e24fe7bc3",
+      "download": "https://authored-files.wabbajack.org/SICKnasty - FO4.wabbajack_126f65ea-5685-41b8-8e66-54c9cd1a7690",
       "machineURL": "sicknastyfo4",
-      "discordURL": "https://discord.gg/W9HRjDFVzX"
+      "discordURL": "https://discord.gg/W9HRjDFVzX",
+      "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "8X7OYYFGF94=",
-      "Size": 264716313,
-      "NumberOfArchives": 1933,
-      "SizeOfArchives": 243436953732,
-      "NumberOfInstalledFiles": 108649,
-      "SizeOfInstalledFiles": 294056844822
+      "Hash": "LQqI2XtYzEQ=",
+      "Size": 3984713907,
+      "NumberOfArchives": 2031,
+      "SizeOfArchives": 204996565458,
+      "NumberOfInstalledFiles": 153510,
+      "SizeOfInstalledFiles": 255080388518,
+      "TotalSize": 460076953976
     },
-    "version": "2.5.1",
+    "version": "3.0.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-02-10T23:51:00.1774636Z",
+    "dateUpdated": "2025-04-25T22:04:59.8987269Z",
     "repositoryName": ""
   }
 ]
